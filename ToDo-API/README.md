@@ -10,3 +10,7 @@ Ejecuta el proyecto:
 ```sh
 npm run dev
 ```
+Añade el URI de la base de datos en el archivo db.js
+```sh
+const sequelize = new Sequelize('AGREGA-EL-URI-DE-LA-BASEDEDATOS');
+```
