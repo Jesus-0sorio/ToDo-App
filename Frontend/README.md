@@ -10,6 +10,10 @@ Ejecuta el proyecto:
 ```sh
 npm run dev
 ```
+Agrega el archivo .env con la direccion del backend:
+```.env
+VITE_BASE_URL=URL-BACK
+```
 
 ## 💼 Producción
 Construir el proyecto para la producción:
