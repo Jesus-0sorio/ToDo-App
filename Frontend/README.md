@@ -8,7 +8,7 @@ npm install
 ```
 Ejecuta el proyecto:
 ```sh
-npm start
+npm run dev
 ```
 
 ## 💼 Producción
